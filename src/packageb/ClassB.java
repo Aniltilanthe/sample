@@ -2,8 +2,7 @@ package packageb;
 
 import packagea.ClassA;
 
-import java.sql.SQLOutput;
-
+//Class B
 public class ClassB {
 
     public static void main(String[] args) {
